@@ -26,7 +26,13 @@ parse:
     - deflist
 
 sphinx:
+  extra_extensions:
+    - sphinx_sitemap
   config:
+    html_baseurl: https://ckelly314.github.io/
+    sitemap_url_scheme: "{link}"
+    sitemap_excludes: ["search.html", "genindex.html"]
+    html_title: Lamont Ocean Nitrogen Group · Colette Kelly
     html_static_path: ['_static']
     html_css_files: ['custom.css']
     html_extra_path: ['files']

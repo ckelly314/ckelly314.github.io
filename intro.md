@@ -1,3 +1,13 @@
+---
+myst:
+  html_meta:
+    description: "Lamont Ocean Nitrogen Group, led by Colette Kelly at Lamont-Doherty Earth Observatory, Columbia University. Research on marine nitrogen cycling, nitrous oxide (N2O), air-sea fluxes, oxygen-deficient zones, BGC-Argo floats, machine learning, and GO-SHIP."
+    keywords: "Colette Kelly, Lamont Ocean Nitrogen Group, nitrous oxide, N2O, marine nitrogen cycle, oceanography, Lamont-Doherty Earth Observatory, Columbia University, BGC-Argo, GO-SHIP, machine learning, pyisotopomer"
+    author: "Colette Kelly"
+    "property=og:title": "Lamont Ocean Nitrogen Group | Colette Kelly"
+    "property=og:description": "Marine nitrogen cycling and nitrous oxide research at Lamont-Doherty Earth Observatory, Columbia University."
+    "property=og:image": "https://ckelly314.github.io/_static/logo.png"
+---
 # Lamont Ocean Nitrogen Group
 
 **Colette Kelly** · Lamont-Doherty Earth Observatory · Columbia Climate School
