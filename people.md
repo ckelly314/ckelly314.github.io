@@ -28,6 +28,13 @@ Role (e.g., Postdoctoral Research Scientist), years
 Short bio, research interests, links.
 -->
 
-## Alumni
+## Alumni and former mentees
 
-*None yet.*
+```{image} images/Monreal_Patrick.jpg
+:alt: Patrick Monreal
+:width: 200px
+:align: left
+:class: headshot
+```
+### Patrick Monreal
+Undergraduate mentee at Stanford University, 2020-2022. Current Ph.D. student at the University of Washington.
