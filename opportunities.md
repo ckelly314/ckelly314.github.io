@@ -14,7 +14,9 @@ I do not currently have funding to support a full-time graduate student, but I a
 
 ## Postdocs
 
-Postdoctoral positions are advertised here when funding is available. I'm also happy to support applications to independent fellowships, such as the [Lamont postdoc fellowship](https://lamont.columbia.edu/about/postdoctoral-fellowships).
+Postdoctoral positions are advertised here when funding is available. I'm also happy to support applications to independent fellowships:
+- [Lamont postdoc fellowship](https://lamont.columbia.edu/about/postdoctoral-fellowships)
+- [Columbia Climate School postdoc fellowship](https://www.climate.columbia.edu/postdoctoral-research-program)
 
 ## Get in touch
 
