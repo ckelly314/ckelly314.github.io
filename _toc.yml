@@ -3,5 +3,6 @@ root: intro
 chapters:
   - file: people
   - file: research
+  - file: fieldwork
   - file: publications
   - file: opportunities

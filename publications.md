@@ -4,11 +4,11 @@ For a complete, up-to-date list, see my [Google Scholar profile](https://scholar
 
 ## Peer-reviewed articles
 
-1. **Kelly, C. L.**, Chang, B. X., Emmanuelli, A. F., Park, E. R., Macdonald, A. M., & Nicholson, D. P. (2026). Low-pressure storms drive nitrous oxide emissions in the Southern Ocean. *Nature Communications*, 17, 2037.
+1. **Kelly, C. L.**, Chang, B. X., Emmanuelli, A. F., Park, E. R., Macdonald, A. M., & Nicholson, D. P. (2026). Low-pressure storms drive nitrous oxide emissions in the Southern Ocean. *Nature Communications*, 17, 2037. [doi:10.1038/s41467-026-68744-2](https://doi.org/10.1038/s41467-026-68744-2)
 
-1. Bif, M. B., **Kelly, C.**, Altabet, M. A., Bourbonnais, A., Elbon, C., Flores, E., Mnich, A., Plant, J., & Johnson, K. S. (2026). BGC-Argo float reveals shifts in nitrogen-carbon cycling in an oxygen-deficient zone. *Communications Earth & Environment*, 7, 294.
+1. Bif, M. B., **Kelly, C.**, Altabet, M. A., Bourbonnais, A., Elbon, C., Flores, E., Mnich, A., Plant, J., & Johnson, K. S. (2026). BGC-Argo float reveals shifts in nitrogen-carbon cycling in an oxygen-deficient zone. *Communications Earth & Environment*, 7, 294. [doi:10.1038/s43247-026-03410-5](https://doi.org/10.1038/s43247-026-03410-5)
 
-1. Sun, X., Frey, C., McCoy, D., Spieler, M. B. A., **Kelly, C. L.**, Maloney, A. E., Garcia-Robledo, E., Lehmann, M. F., Ward, B. B., & Zakem, E. J. (2025). Mechanistic understanding of nitrate reduction as the dominant production pathway of nitrous oxide in marine oxygen minimum zones. *Nature Communications*, 16, 8916.
+1. Sun, X., Frey, C., McCoy, D., Spieler, M. B. A., **Kelly, C. L.**, Maloney, A. E., Garcia-Robledo, E., Lehmann, M. F., Ward, B. B., & Zakem, E. J. (2025). Mechanistic understanding of nitrate reduction as the dominant production pathway of nitrous oxide in marine oxygen minimum zones. *Nature Communications*, 16, 8916. [doi:10.1038/s41467-025-63989-9](https://doi.org/10.1038/s41467-025-63989-9)
 
 1. **Kelly, C. L.**, Travis, N. M., Baya, P. A., Frey, C., Sun, X., Ward, B. B., & Casciotti, K. L. (2024). Isotopomer labeling and oxygen dependence of hybrid nitrous oxide production. *Biogeosciences*, 21, 3215–3238. [doi:10.5194/bg-21-3215-2024](https://doi.org/10.5194/bg-21-3215-2024)
 
@@ -43,7 +43,7 @@ For a complete, up-to-date list, see my [Google Scholar profile](https://scholar
 ## Software & data
 
 - **ml-argo-n2o**: ML-based N₂O flux estimation in the Southern Ocean (v1.0.0, 2025). [GitHub](https://github.com/ckelly314/ml-argo-n2o)
-- **pyisotopomer**: Python package for N₂O isotopocule calculations (v1.0.4, 2023). [GitHub](https://github.com/ckelly314/pyisotopomer)
+- **pyisotopomer**: Python package for N₂O isotopocule calculations (v1.0.4, 2023). [PyPI](https://pypi.org/project/pyisotopomer/) · [GitHub](https://github.com/ckelly314/pyisotopomer)
 - **isotopomer-soup**: N₂O isotopocule model code. [GitHub](https://github.com/ckelly314/isotopomer-soup)
 - Monreal, P., **Kelly, C.**, Travis, N., & Casciotti, K. *ETNP 2016 Time-Dependent N₂O Isotopocule Model.* Zenodo.
 - Sun, X., **Kelly, C. L.**, et al. *ChemostatModel_clean_N2O: Modular denitrification N₂O model.* Zenodo.

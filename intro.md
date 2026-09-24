@@ -12,7 +12,13 @@ This site is the home base for my research projects, publications, and group.
 :::{grid-item-card} Research
 :link: research
 :link-type: doc
-N₂O air-sea fluxes, machine-learning reconstructions from BGC-Argo and GO-SHIP data, and water-mass tracers.
+Machine learning for N₂O air-sea fluxes, nitrogen-carbon coupling in oxygen-deficient zones, N₂O production pathways, and pyisotopomer.
+:::
+
+:::{grid-item-card} Fieldwork
+:link: fieldwork
+:link-type: doc
+GO-SHIP expeditions: A16S (2026, Co-Chief Scientist) and P16C (2027, Chief Scientist).
 :::
 
 :::{grid-item-card} Publications
@@ -34,9 +40,10 @@ Interested in working together? Start here.
 :::
 ::::
 
+(contact)=
 ## Contact
 
-- ✉️ Email: `your.email@columbia.edu` <!-- TODO: add preferred address -->
+- ✉️ Email: [clk2136@columbia.edu](mailto:clk2136@columbia.edu)
 - 🐙 GitHub: [ckelly314](https://github.com/ckelly314)
 - 🎓 Google Scholar: [profile](https://scholar.google.com/citations?user=_pUWmukAAAAJ&hl=en)
 - 🆔 ORCID: *link here* <!-- TODO -->

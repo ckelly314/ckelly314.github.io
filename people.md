@@ -2,13 +2,12 @@
 
 ## Principal Investigator
 
-<!-- TODO: add a headshot at images/headshot.jpg, then uncomment:
 ```{image} images/headshot.jpg
 :alt: Colette Kelly
 :width: 200px
 :align: left
+:class: headshot
 ```
--->
 
 **Colette Kelly**
 Associate Research Scientist, Lamont-Doherty Earth Observatory & LEAP Center, Columbia University

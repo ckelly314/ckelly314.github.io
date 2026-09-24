@@ -16,4 +16,4 @@ Postdoctoral positions are advertised here when funding is available. I'm also h
 
 ## Get in touch
 
-Email me with a short note about your background and interests, plus a CV. <!-- TODO: email address -->
+Email me at [clk2136@columbia.edu](mailto:clk2136@columbia.edu) with a short note about your background and interests, plus a CV.
