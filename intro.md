@@ -1,10 +1,17 @@
-# Colette Kelly
+# Lamont Ocean Nitrogen Group
 
-**Associate Research Scientist** · Lamont-Doherty Earth Observatory, Columbia University · LEAP Center
+**Colette Kelly** · Lamont-Doherty Earth Observatory · Columbia Climate School
 
 I'm an oceanographer who studies the marine nitrogen cycle, and in particular **nitrous oxide (N₂O)**: a potent greenhouse gas and ozone-depleting substance that the ocean both produces and releases to the atmosphere. My work combines shipboard observations, autonomous floats, and machine learning to map where N₂O is made, how it moves through the ocean interior, and how much escapes across the air-sea interface.
 
 This site is the home base for my research projects, publications, and group.
+
+<figure class="video-embed">
+  <div class="video-frame">
+    <iframe src="https://www.youtube.com/embed/Lw787XSdooM?si=BrYGmfFRIp9-kvTH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+  <figcaption>Preliminary results.</figcaption>
+</figure>
 
 ::::{grid} 1 2 2 2
 :gutter: 3
