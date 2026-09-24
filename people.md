@@ -12,7 +12,7 @@
 **Colette Kelly**
 Associate Research Scientist, Lamont-Doherty Earth Observatory & LEAP Center, Columbia University
 
-Colette is a chemical oceanographer working on the marine nitrogen cycle, with a focus on nitrous oxide. She earned her Ph.D. in Earth System Science at Stanford University, where she trained in isotope geochemistry, and has since moved toward atmosphere-ocean physics and machine learning for biogeochemistry. She has spent more than 180 days at sea and is closely involved with the GO-SHIP repeat hydrography and BGC-Argo programs. She is based in New York City. [📄 CV (PDF)](https://ckelly314.github.io/Kelly_CV.pdf)
+Colette is a chemical oceanographer working on the marine nitrogen cycle, with a focus on nitrous oxide. They earned their Ph.D. in Earth System Science at Stanford University, where they trained in isotope geochemistry and numerical modeling. Their current work uses machine learning and AI to quantify how chemical, physical, and biological processes shape the ocean's role as a mediator of global change. They are also a chief scientist and executive committee member for the Global Ocean Ship-Based Hydrography Program (GO-SHIP), which runs research expeditions that are the observational backbone of ocean science. Colette collaborates closely with the [McKinley Ocean Carbon Group](https://galenmckinley.github.io/). In their spare time, they "enjoy" running marathons and are a proud member of NYC's Central Park Track Club. [📄 CV (PDF)](https://ckelly314.github.io/Kelly_CV.pdf)
 
 <div style="clear: both;"></div>
 
