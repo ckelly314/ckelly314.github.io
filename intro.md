@@ -14,7 +14,7 @@ myst:
 
 I'm an oceanographer who studies the marine nitrogen cycle, and in particular **nitrous oxide (N₂O)**: a potent greenhouse gas and ozone-depleting substance that the ocean both produces and releases to the atmosphere. My work combines shipboard observations, autonomous floats, and machine learning to map where N₂O is made, how it moves through the ocean interior, and how much escapes across the air-sea interface.
 
-This site is the home base for my research projects, publications, and group.
+This site is the home base for my research projects, publications, and group. I also collaborate with the [McKinley Ocean Carbon Group](https://galenmckinley.github.io/).
 
 <figure class="video-embed">
   <div class="video-frame">
