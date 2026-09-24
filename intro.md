@@ -64,4 +64,4 @@ Interested in working together? Start here.
 - 📄 CV: [Download (PDF)](https://ckelly314.github.io/Kelly_CV.pdf)
 - 🐙 GitHub: [ckelly314](https://github.com/ckelly314)
 - 🎓 Google Scholar: [profile](https://scholar.google.com/citations?user=_pUWmukAAAAJ&hl=en)
-- 🆔 ORCID: *link here* <!-- TODO -->
+- 🆔 ORCID: [0000-0002-3660-4442](https://orcid.org/my-orcid?orcid=0000-0002-3660-4442)
