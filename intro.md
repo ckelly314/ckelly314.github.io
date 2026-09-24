@@ -51,6 +51,7 @@ Interested in working together? Start here.
 ## Contact
 
 - ✉️ Email: [clk2136@columbia.edu](mailto:clk2136@columbia.edu)
+- 📄 CV: [Download (PDF)](https://ckelly314.github.io/Kelly_CV.pdf)
 - 🐙 GitHub: [ckelly314](https://github.com/ckelly314)
 - 🎓 Google Scholar: [profile](https://scholar.google.com/citations?user=_pUWmukAAAAJ&hl=en)
 - 🆔 ORCID: *link here* <!-- TODO -->
