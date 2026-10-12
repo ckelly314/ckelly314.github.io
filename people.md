@@ -30,6 +30,15 @@ Short bio, research interests, links.
 
 ## Alumni and former mentees
 
+```{image} images/Aagaard_Nina.jpeg
+:alt: Nina Aagaard
+:width: 200px
+:align: left
+:class: headshot
+```
+### Nina Aagaard
+Undergraduate mentee at Woods Hole Oceanographic Institution, 2025. Current Ph.D. student at Stanford University.
+
 ```{image} images/Monreal_Patrick.jpg
 :alt: Patrick Monreal
 :width: 200px
