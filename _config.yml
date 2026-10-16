@@ -29,6 +29,8 @@ sphinx:
   extra_extensions:
     - sphinx_sitemap
   config:
+    myst_heading_anchors: 3
+    suppress_warnings: ["misc.highlighting_failure"]
     html_baseurl: https://ckelly314.github.io/
     sitemap_url_scheme: "{link}"
     sitemap_excludes: ["search.html", "genindex.html"]

@@ -50,6 +50,12 @@ Papers, datasets, and code.
 Who's in the group.
 :::
 
+:::{grid-item-card} Blog
+:link: blog
+:link-type: doc
+How-to guides for scientific computing: HPC clusters, Jupyter, conda, git, and GPUs.
+:::
+
 :::{grid-item-card} Opportunities
 :link: opportunities
 :link-type: doc
@@ -60,8 +66,11 @@ Interested in working together? Start here.
 (contact)=
 ## Contact
 
-- ✉️ Email: [clk2136@columbia.edu](mailto:clk2136@columbia.edu)
-- 📄 CV: [Download (PDF)](https://ckelly314.github.io/Kelly_CV.pdf)
-- 🐙 GitHub: [ckelly314](https://github.com/ckelly314)
-- 🎓 Google Scholar: [profile](https://scholar.google.com/citations?user=_pUWmukAAAAJ&hl=en)
-- 🆔 ORCID: [0000-0002-3660-4442](https://orcid.org/my-orcid?orcid=0000-0002-3660-4442)
+```{container} social-icons
+[![Email](images/email.svg "Email: clk2136@columbia.edu")](mailto:clk2136@columbia.edu)
+[![CV](images/cv.svg "Download CV (PDF)")](https://ckelly314.github.io/Kelly_CV.pdf)
+[![GitHub](images/github.png "GitHub")](https://github.com/ckelly314)
+[![Google Scholar](images/googlescholar.png "Google Scholar")](https://scholar.google.com/citations?user=_pUWmukAAAAJ)
+[![ORCID](images/orcid.png "ORCID")](https://orcid.org/0000-0002-3660-4442)
+[![LinkedIn](images/linkedin.png "LinkedIn")](https://www.linkedin.com/in/colette-kelly-4b4084168/)
+```

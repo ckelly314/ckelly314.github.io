@@ -1,6 +1,6 @@
 # Publications
 
-For a complete, up-to-date list, see my [Google Scholar profile](https://scholar.google.com/citations?user=_pUWmukAAAAJ&hl=en). <!-- TODO: add ORCID link -->
+For a complete, up-to-date list, see my [Google Scholar profile](https://scholar.google.com/citations?user=_pUWmukAAAAJ). <!-- TODO: add ORCID link -->
 
 ## Peer-reviewed articles
 
