@@ -4,7 +4,7 @@
 
 This resource covers what a GPU actually is, when and why you should use one, how to access a GPU node on Hydra, and how to build a conda environment with nvForest so you can run a trained scikit-learn random forest on the GPU.
 
-If you are new to high-performing computing or have never used the Poseidon or Hydra computer clusters before, I recommend checking out my other blog posts on high-performance computing:
+If you are new to high-performing computing or have never used the Poseidon or Hydra computer clusters before, I recommend checking out my other tutorials on high-performance computing:
 
 🔗 [HPC basics](poseidon-basics.md)
 

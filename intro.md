@@ -50,8 +50,8 @@ Papers, datasets, and code.
 Who's in the group.
 :::
 
-:::{grid-item-card} Blog
-:link: blog
+:::{grid-item-card} Tutorials
+:link: tutorials
 :link-type: doc
 How-to guides for scientific computing: HPC clusters, Jupyter, conda, git, and GPUs.
 :::

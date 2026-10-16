@@ -6,13 +6,13 @@ chapters:
   - file: fieldwork
   - file: publications
   - file: opportunities
-  - file: blog
+  - file: tutorials
     sections:
-      - file: blog/use-the-gpus-on-hydra
-      - file: blog/getting-started-with-hydra
-      - file: blog/about-hydra
-      - file: blog/basic-git
-      - file: blog/poseidon-basics
-      - file: blog/poseidon-jupyter
+      - file: tutorials/use-the-gpus-on-hydra
+      - file: tutorials/getting-started-with-hydra
+      - file: tutorials/about-hydra
+      - file: tutorials/basic-git
+      - file: tutorials/poseidon-basics
+      - file: tutorials/poseidon-jupyter
   - url: https://ckelly314.github.io/Kelly_CV.pdf
     title: CV
